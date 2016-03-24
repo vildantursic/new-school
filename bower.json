@@ -1,0 +1,31 @@
+{
+  "name": "mondoit",
+  "authors": [
+    "Vildan Tursic <vildantursic@hotmail.com>"
+  ],
+  "description": "official web page for mondoit",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "mondoit",
+    "official",
+    "IoT",
+    "design",
+    "development",
+    "e-commerce",
+    "business"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.2",
+    "angular-ui-router": "^0.2.18"
+  }
+}

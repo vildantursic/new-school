@@ -1,0 +1,64 @@
+.btn {
+  width: 200px;
+  height: 50px;
+  background-color: $mondo3;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  color: white;
+  transition: ease all 0.5s;
+}
+
+.btn-title {
+  margin-top: 35px;
+  background-color: $mondo1;
+}
+.btn-title:hover {
+  background-color: #F57C00;
+}
+
+.btn-tiles {
+  width: 180px;
+  height: 40px;
+  font-size: 13px;
+  margin-top: 35px;
+  background-color: $mondo1;
+}
+.btn-tiles:hover {
+  background-color: #F57C00;
+}
+
+.btn-more {
+  margin-top: 35px;
+  background-color: transparent;
+  border: solid 3px $mondo2;
+  font-size: 15px;
+  color: $mondo2;
+}
+.btn-more:hover {
+  background-color: $mondo2;
+  color: white;
+}
+
+.btn-bottom-main {
+  width: 400px;
+  height: 60px;
+  border: solid 3px white;
+  color: white;
+  font-size: 20px;
+  background: transparent;
+  margin-top: 120px;
+}
+.btn-bottom-main:hover {
+  background: white;
+  color: $mondo1;
+}
+
+.btn-footer {
+  background-color: #5A5A5A;
+  width: 250px;
+  height: 30px;
+  font-size: 15px;
+  margin-top: -5px;
+}
